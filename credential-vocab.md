@@ -1,7 +1,7 @@
 [comment]: <> ([age is ]&# 40;# age&# 41;)
-# id
+# caseId
 
-id represents the case's identification number
+caseId represents the case's identification number
 
 ```
   "id": "TESTCASE002"
