@@ -4,7 +4,7 @@
 caseId represents the case's identification number
 
 ```
-  "id": "TESTCASE002"
+  "caseId": "TESTCASE002"
 ```
 
 # title
