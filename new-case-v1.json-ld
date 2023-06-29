@@ -15,7 +15,7 @@
           "kyc-vocab": "https://github.com/HareemSaad/Content/blob/main/credential-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "caseId": {
-              "@id": "kyc-vocab:title",
+              "@id": "kyc-vocab:id",
               "@type": "xsd:string"
           },
           "documentType": {
